@@ -1,35 +1,43 @@
-scripts :
+# imageProcessingAPI
 
-1-test for jasmine test
+## Project description
 
-2-start for starting the api
-
-3-build for compile code
-
-4-prettier for formating code
-
-5-lint and lint:f for checking erorrs
+This project is part of udacity full-stack javascript ND. It is an api for resizing images
 
 
-endpoint :
+### Scripts :
 
-http://localhost:3000/resize?
+- `npm run test` for jasmine test
 
-example : http://localhost:3000/resize?filename=icelandwaterfall&width=&height=200
+- `npm run start` for starting the api
 
+- `npm run build` for compile code
 
-filename : you can choose from 5 images
+- `npm run prettier` for formating code
 
-1-encenadaport
-
-2-fjord
-
-3-icelandwaterfall
-
-4-palmtunnel
-
-5-santamonica
+- `npm run lint` and `lint:f` for checking erorrs
 
 
-width and height you can put whatever you want :D
+## endpoint :
+
+`http://localhost:3000/resize?`
+
+example : `http://localhost:3000/resize?filename=icelandwaterfall&width=&height=200`
+
+## parameters :
+
+#### for the filename you can choose from 5 images:
+
+1. encenadaport
+
+2. fjord
+
+3. icelandwaterfall
+
+4. palmtunnel
+
+5. santamonica
+
+
+#### for the width and height you can choose any positive number
 
