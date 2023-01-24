@@ -22,7 +22,7 @@ This project is part of udacity full-stack javascript ND. It is an api for resiz
 
 `http://localhost:3000/resize?`
 
-example : `http://localhost:3000/resize?filename=icelandwaterfall&width=&height=200`
+example : `http://localhost:3000/resize?filename=icelandwaterfall&width=400&height=200`
 
 ## parameters :
 
